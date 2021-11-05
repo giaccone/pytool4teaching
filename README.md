@@ -63,7 +63,7 @@ The jupyter notebook `power_factor_correction.ipynb` makes it possible to study 
 
 ### 2.3 Power in three phase systems
 
-The jupyter notebook `three_phase_system_power.ipynb` makes it possible to study the $2 \omega$ components of the instantaneous power in three phase systems. It is possible to show that in symmetric and balanced conditions, the $2 \omega$ component of the total power vanishes.
+The jupyter notebook `three_phase_system_power.ipynb` makes it possible to study the instantaneous power in three phase systems. It is possible to show that in symmetric and balanced conditions, the total instantaneous power is constant.
 
 
 <center>

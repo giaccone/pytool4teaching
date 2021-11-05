@@ -10,7 +10,7 @@ This repository is a collection of python scripts and jupyter notebooks useful t
 The script `1_symbolic_method_1pha.py` makes it possible to produce a video showing the link between a sine wave and its associated phasor as shown below:
 
 <video width="500" height="400" controls>
-  <source src="./video1_single_phasor.mp4" type="video/mp4">
+  <source src="./video/video1_single_phasor.mp4" type="video/mp4">
 </video>
 
 ### 1.2 Two phasors at the same time (same or different frequency)
@@ -18,11 +18,11 @@ The script `1_symbolic_method_1pha.py` makes it possible to produce a video show
 The script `2_symbolic_method_2pha.py` makes it possible to produce a video showing two sine wave with either equal or different frequency as shown below:
 
 <video width="500" height="400" controls>
-  <source src="./video2_two_phasors_sync.mp4" type="video/mp4">
+  <source src="./video/video2_two_phasors_sync.mp4" type="video/mp4">
 </video>
 
 <video width="500" height="400" controls>
-  <source src="./video3_two_phasors_async.mp4" type="video/mp4">
+  <source src="./video/video3_two_phasors_async.mp4" type="video/mp4">
 </video>
 
 ### 1.3 Sum of two phasors (same or different frequency)
@@ -30,11 +30,11 @@ The script `2_symbolic_method_2pha.py` makes it possible to produce a video show
 The script `3_symbolic_method_2pha_sum.py` makes it possible to produce a video showing the sum of two sine wave with either equal or different frequency as shown below:
 
 <video width="500" height="400" controls>
-  <source src="./video4_two_phasors_sync.mp4" type="video/mp4">
+  <source src="./video/video4_two_phasors_sync.mp4" type="video/mp4">
 </video>
 
 <video width="500" height="400" controls>
-  <source src="./video5_two_phasors_async.mp4" type="video/mp4">
+  <source src="./video/video5_two_phasors_async.mp4" type="video/mp4">
 </video>
 
 

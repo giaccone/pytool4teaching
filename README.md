@@ -70,3 +70,20 @@ The jupyter notebook `three_phase_system_power.ipynb` makes it possible to study
  <img src="./img/three_phase_power.png" alt="image not working" width="500"> 
 </center>
 
+### 2.4 Low pass filter
+
+The jupyter notebook `low_pass_filter.ipynb` makes it possible to apply a simple low pass filter to sine wave with a superimposed high frequency noise. It is possible to study the effectiveness of the filter by varying the cut-off frequency**
+
+<center>
+ <img src="./img/low_pass_filter.png" alt="image not working" width="500"> 
+</center>
+
+
+### 2.5 Filter a noisy sound
+
+The jupyter notebook `filter_sound.ipynb` makes it possible to generate a sound (you can hear it) and superpose a a noise to it. Afterward, a filter is generated to remove (as much as possible) the noise. All sounds can be reproduced using the notebook.
+
+<center>
+ <img src="./img/filter_sound.png" alt="image not working" width="500"> 
+</center>
+
